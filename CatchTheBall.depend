@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1747993675 source:n:\northwestern polytechnical university\2nd semester\c programming experiment\final\catchtheball\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+
+1426320928 c:\program files\codeblocks\mingw\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426320928 c:\program files\codeblocks\mingw\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
